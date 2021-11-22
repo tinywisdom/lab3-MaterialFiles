@@ -16,6 +16,11 @@
         android:title="@string/cut" />
 
     <item
+        android:id="@+id/action_testline"
+        android:title="testline_properties" />
+
+
+    <item
         android:id="@+id/action_copy"
         android:title="@string/copy" />
 

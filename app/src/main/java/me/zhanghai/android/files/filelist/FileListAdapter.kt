@@ -291,6 +291,10 @@ class FileListAdapter(
                     listener.showPropertiesDialog(file)
                     true
                 }
+                R.id.action_testline -> {
+                    listener.showPropertiesDialog(file)
+                    true
+                }
                 else -> false
             }
         }
